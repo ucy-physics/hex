@@ -83,14 +83,11 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+    - label: "CMS Experiment"
+      icon: "fas fa-fw fa-link"
+      url: "https://cms.cern/detector"
     - label: "UCY Physics department"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fas fa-fw fa-link"
       url: "https://www.ucy.ac.cy/phy/?lang=en"
 
 footer:
