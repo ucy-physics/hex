@@ -77,7 +77,7 @@ plugins:
 
 author:
   name   : "First Lastname"
-  avatar : "/assets/images/CMS_logo_May2014.pdf"
+  avatar : "/assets/images/CMS_logo_May2014.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
